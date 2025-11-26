@@ -4,8 +4,8 @@ A Java-based Matador game (inspired by Monopoly) with a GUI and multilingual sup
 
 ## Project Origin and Context
 - Project retrieved from my GitHub account created with my student email, due to loss of access.
-- Originally completed as part of the course: 62582 - Complex Systems and DevOps.
-- Original submission date: Nov 2021.
+- Originally completed as part of the course: 02312 - Introductory Programming.
+- Original submission date: Jan 2022.
 - Re-uploaded to this GitHub repository for reference and portfolio purposes.
 
 ## Features
